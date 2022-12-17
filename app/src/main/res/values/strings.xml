@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TipTime</string>
+    <string name="amazing_20">Amazing (20%)</string>
+    <string name="good_18">Good (18%)</string>
+    <string name="okey_15">Okey (15%)</string>
+    <string name="round_up_tip">Round Up Tip?</string>
+    <string name="calculate">Calculate</string>
+    <string name="tip_amount">Tip Amount : %s</string>
+</resources>
